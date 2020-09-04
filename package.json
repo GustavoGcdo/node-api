@@ -16,7 +16,7 @@
     "http": "0.0.0",
     "jsonwebtoken": "^8.1.0",
     "md5": "^2.2.1",
-    "mongodb": "^2.2.31",
+    "mongodb": "^3.6.1",
     "mongoose": "^5.9.1",
     "nodemailer": "^4.1.3"
   },
